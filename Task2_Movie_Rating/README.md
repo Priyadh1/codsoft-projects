@@ -29,13 +29,10 @@ You get the rating, a likely range, and the reasons behind it.
 - **Explained with SHAP:** cast and director track record matter most, then votes and release year.
 - **Honest note on votes:** votes only exist after release, so the predictor uses the no-votes model.
 
-## Screenshots
-![Actual vs predicted](actual_vs_predicted.png)
-![SHAP explanation](shap.png)
-![Predictor form](predictor.png)
+
 
 ## Files
-- `Movie_Rating_Prediction.ipynb`: full notebook
+- `codsofttask2.ipynb`: full notebook
 - `IMDb Movies India.csv`: dataset (from Kaggle, adrianmcmahon/imdb-india-movies)
 
 #codsoft #datascience #machinelearning
